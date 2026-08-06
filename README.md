@@ -65,7 +65,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 
 ## 🚀 Connect
 
-- **LeetCode:** https://leetcode.com/u/YOUR_USERNAME/
+- **LeetCode:** https://leetcode.com/u/YashChaudhari12
 - **GitHub:** https://github.com/Yashchaudhari-12
 
 ---

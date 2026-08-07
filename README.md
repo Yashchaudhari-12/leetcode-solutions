@@ -90,4 +90,8 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->

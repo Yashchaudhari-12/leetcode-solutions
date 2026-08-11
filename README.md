@@ -80,11 +80,13 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0066-plus-one](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Greedy
 |  |
@@ -94,6 +96,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |

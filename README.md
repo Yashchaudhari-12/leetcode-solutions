@@ -79,6 +79,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0015-3sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -157,4 +158,8 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

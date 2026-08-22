@@ -122,6 +122,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |

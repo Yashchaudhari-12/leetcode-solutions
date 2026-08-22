@@ -82,6 +82,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -109,6 +110,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -168,4 +170,8 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

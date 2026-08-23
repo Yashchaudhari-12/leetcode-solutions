@@ -91,6 +91,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2951-find-the-peaks](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -179,4 +180,8 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2951-find-the-peaks) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->

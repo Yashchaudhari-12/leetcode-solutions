@@ -97,6 +97,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |

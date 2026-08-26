@@ -85,6 +85,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0053-maximum-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -117,6 +118,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0015-3sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -155,6 +157,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0015-3sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
@@ -184,6 +187,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Enumeration
 |  |
 | ------- |
@@ -196,4 +200,8 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0050-powx-n) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

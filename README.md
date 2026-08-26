@@ -90,6 +90,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0219-contains-duplicate-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -120,6 +121,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0229-majority-element-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
@@ -153,6 +155,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0015-3sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |

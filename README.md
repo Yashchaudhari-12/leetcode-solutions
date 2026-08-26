@@ -127,6 +127,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -191,4 +192,8 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

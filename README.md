@@ -88,6 +88,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0066-plus-one](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -175,6 +176,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |

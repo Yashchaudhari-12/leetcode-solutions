@@ -137,6 +137,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0050-powx-n](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -195,6 +196,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Quicksort
 |  |
@@ -221,4 +223,8 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

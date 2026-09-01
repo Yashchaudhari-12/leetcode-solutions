@@ -144,11 +144,13 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3536-maximum-product-of-two-digits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3959-check-good-integer](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3959-check-good-integer](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Sliding Window
 |  |
 | ------- |

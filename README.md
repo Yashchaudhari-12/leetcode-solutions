@@ -92,6 +92,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0119-pascals-triangle-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -140,6 +141,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0050-powx-n](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -175,6 +177,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0031-next-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |

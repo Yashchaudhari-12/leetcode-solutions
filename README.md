@@ -104,6 +104,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2951-find-the-peaks](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -150,6 +151,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |

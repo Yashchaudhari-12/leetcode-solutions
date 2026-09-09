@@ -90,6 +90,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0075-sort-colors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -209,6 +210,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Binary Search

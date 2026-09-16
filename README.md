@@ -116,6 +116,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3683-earliest-time-to-finish-one-task](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3701-compute-alternating-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -132,6 +133,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
@@ -191,6 +193,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0229-majority-element-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

@@ -164,6 +164,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0069-sqrtx](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -230,6 +231,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0136-single-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Binary Search
 |  |

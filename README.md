@@ -167,6 +167,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -254,6 +255,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2951-find-the-peaks) |
 ## Prefix Sum
 |  |
@@ -272,6 +274,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Newton's Method
 |  |
@@ -281,4 +284,12 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->

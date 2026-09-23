@@ -101,6 +101,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -290,6 +291,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Prime Factorization
 |  |
 | ------- |

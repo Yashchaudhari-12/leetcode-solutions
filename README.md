@@ -114,6 +114,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2951-find-the-peaks](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -138,6 +139,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |

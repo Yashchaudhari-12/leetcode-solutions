@@ -103,6 +103,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1207-unique-number-of-occurrences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -281,6 +282,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2951-find-the-peaks) |
 ## Prefix Sum

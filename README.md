@@ -123,6 +123,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -177,6 +178,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -241,6 +243,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0189-rotate-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |

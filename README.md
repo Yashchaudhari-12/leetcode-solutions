@@ -192,6 +192,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0069-sqrtx](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
@@ -258,6 +259,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0053-maximum-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -336,4 +338,16 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

@@ -136,6 +136,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -207,6 +208,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |

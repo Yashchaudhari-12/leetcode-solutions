@@ -3,6 +3,7 @@ public:
     int countDistinctIntegers(vector<int>& nums) {
 
         int n = nums.size();
+        unordered_set<int> ans(nums.begin(),nums.end());
         
         for(int i=0;i<n;i++){
             int a = nums[i];
@@ -13,9 +14,9 @@ public:
                 rev = rev*10 + digit;
                 a /= 10;
             }
-            nums.push_back(rev);
+            ans.insert(rev);
         }
-        set<int> ans(nums.begin(),nums.end());
+        
         return ans.size();
     }
 };

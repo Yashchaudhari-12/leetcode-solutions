@@ -115,6 +115,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -153,6 +154,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -202,6 +204,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2169-count-operations-to-obtain-zero](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -236,6 +239,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0229-majority-element-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |

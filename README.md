@@ -140,6 +140,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3701-compute-alternating-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -231,6 +232,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2553-separate-the-digits-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4020-elevator-requests-i) |

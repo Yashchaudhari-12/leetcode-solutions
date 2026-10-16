@@ -277,6 +277,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -295,6 +296,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |

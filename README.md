@@ -150,6 +150,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3904-smallest-stable-index-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4020-elevator-requests-i) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Greedy
 |  |
 | ------- |

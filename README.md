@@ -143,6 +143,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -179,6 +180,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3467-transform-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
 |  |
 | ------- |
@@ -329,6 +332,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2951-find-the-peaks) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
 |  |
 | ------- |

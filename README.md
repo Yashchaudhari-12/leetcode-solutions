@@ -115,6 +115,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2418-sort-the-people](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -198,6 +199,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -319,6 +321,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |

@@ -115,6 +115,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -170,6 +171,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1207-unique-number-of-occurrences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -268,6 +270,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0229-majority-element-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |

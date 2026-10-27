@@ -120,6 +120,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1920-build-array-from-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -251,6 +252,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -314,6 +316,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |

@@ -161,6 +161,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3904-smallest-stable-index-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4020-elevator-requests-i) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
@@ -251,6 +252,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3959-check-good-integer) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Simulation
 |  |
 | ------- |

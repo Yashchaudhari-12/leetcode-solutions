@@ -335,6 +335,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0389-find-the-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Binary Search
 |  |
 | ------- |

@@ -151,6 +151,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3701-compute-alternating-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -251,6 +252,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3895-count-digit-appearances) |

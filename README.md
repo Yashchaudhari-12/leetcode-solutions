@@ -165,6 +165,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3903-smallest-stable-index-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4020-elevator-requests-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -316,6 +317,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |

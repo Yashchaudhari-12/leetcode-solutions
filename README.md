@@ -160,6 +160,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3861-minimum-capacity-box) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -236,6 +237,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -264,6 +266,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -281,6 +284,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4020-elevator-requests-i) |
@@ -317,6 +321,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -399,6 +404,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Newton's Method
 |  |
 | ------- |

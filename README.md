@@ -137,6 +137,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2951-find-the-peaks) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -203,6 +204,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
@@ -230,6 +232,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3467-transform-array-by-parity) |

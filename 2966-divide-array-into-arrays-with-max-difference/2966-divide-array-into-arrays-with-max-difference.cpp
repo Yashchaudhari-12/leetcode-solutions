@@ -1,0 +1,28 @@
+class Solution {
+public:
+    vector<vector<int>> divideArray(vector<int>& nums, int k) {
+
+        int n = nums.size();
+        sort(nums.begin(),nums.end());
+        vector<vector<int>> ans;
+        vector<int> temp;
+        
+
+        for(int i=0;i<n;i++){
+            temp.push_back(nums[i]);
+
+            if(temp.size() == 3){
+                ans.push_back(temp);
+                temp.clear();
+            }
+        }
+
+        for(int i=0;i<ans.size();i++){
+            if(ans[i][2] - ans[i][0] > k){
+                return {};
+            }
+        }
+        return ans;
+        
+    }
+};

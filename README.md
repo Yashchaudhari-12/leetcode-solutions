@@ -110,6 +110,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1207-unique-number-of-occurrences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1395-count-number-of-teams](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -340,6 +341,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0119-pascals-triangle-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1025-divisor-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1395-count-number-of-teams](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 ## String
 |  |
 | ------- |
@@ -455,4 +457,12 @@ Small improvements, compounded daily, lead to significant growth over time.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->

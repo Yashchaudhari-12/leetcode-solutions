@@ -168,6 +168,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [3903-smallest-stable-index-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4020-elevator-requests-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -326,6 +327,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Divide and Conquer
 |  |

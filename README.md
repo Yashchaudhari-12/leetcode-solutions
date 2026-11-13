@@ -110,6 +110,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1207-unique-number-of-occurrences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -227,6 +228,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1200-minimum-absolute-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -323,6 +325,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0189-rotate-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -375,6 +378,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0162-find-peak-element](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |

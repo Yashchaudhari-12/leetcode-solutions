@@ -77,6 +77,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0018-4sum) |
@@ -177,6 +178,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |

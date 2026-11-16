@@ -112,6 +112,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1338-reduce-array-size-to-the-half](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1395-count-number-of-teams](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -284,6 +285,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |

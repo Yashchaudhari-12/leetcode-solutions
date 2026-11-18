@@ -124,6 +124,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1672-richest-customer-wealth](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -235,6 +236,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -392,6 +394,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [0056-merge-intervals](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Enumeration
 |  |
 | ------- |

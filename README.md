@@ -133,6 +133,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -193,6 +194,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -334,6 +336,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -400,6 +403,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | ------- |
 | [1534-count-good-triplets](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |

@@ -124,6 +124,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1773-count-items-matching-a-rule](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -366,6 +367,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0551-student-attendance-record-i](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1773-count-items-matching-a-rule](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Bit Manipulation

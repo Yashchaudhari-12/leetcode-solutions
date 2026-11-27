@@ -109,6 +109,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0905-sort-array-by-parity](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -267,6 +268,7 @@ Small improvements, compounded daily, lead to significant growth over time.
 | [0189-rotate-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Yashchaudhari-12/leetcode-solutions/tree/master/1952-three-divisors) |
